@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Discord Commander",
+  "description": "A powerful Discord-themed server management dashboard and AI-driven command center. Features AI moderation generation, server statistics visualization, and high-velocity server management simulations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
